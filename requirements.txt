@@ -1,1 +1,1 @@
-reauests>=2.12
+requests>=2.12
